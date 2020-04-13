@@ -52,7 +52,7 @@ class SignIn extends React.Component {
                     />
                    
                     <FormInput name='password' 
-                        type='assword' 
+                        type='password' 
                         value={this.state.password}
                         label='Password'
                         handleChange={this.handleChange}
