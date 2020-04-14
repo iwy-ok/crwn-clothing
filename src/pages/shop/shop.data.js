@@ -1,4 +1,4 @@
-//internal state
+// //internal state
 
 // const SHOP_DATA = {
 //     hats: {
